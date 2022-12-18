@@ -4,15 +4,15 @@ import {Link} from 'react-scroll'
 
 const Home = () => {
   return (
-    <div name='home' className= 'w-full h-screen bg-[#0a192f]'>
+    <div name='home' className= 'w-full h-screen bg-[#001427]'>
         {/* Container */}
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
-            <p className='text-pink-600'>Hello, my name is</p>
-            <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Alex Defrese</h1>
-            <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I am a Full Stack Developer</h2>
-            <p className='text-[#8892b0] py-4 max-w-[700px]'>*****Placeholder text for blurb******</p>
+            <p className='text-[#708D81]'>Hello, my name is</p>
+            <h1 className='text-4xl sm:text-7xl font-bold text-[#E09F3E]'>Alex Defrese</h1>
+            <h2 className='text-4xl sm:text-7xl font-bold text-[#FFF3B0]'>I am a Full Stack Developer</h2>
+            <p className='text-[#708D81] py-4 max-w-[700px]'>*****Placeholder text for blurb******</p>
             <div>
-                <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
+                <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#9E2A2B] hover:border-[#9E2A2B]'>
                 <Link to="work" smooth={true} duration={500}>
                 View Work
                 </Link> 
