@@ -7,9 +7,11 @@ My portfolio to showcase my work
 To showcase my work, and provide an opportunity for people to contact me
 
 ## Links
-Github: 
+Github: https://github.com/AlexDefrese/Defrese-Portfolio-update
 
-Pages:
+
+Pages: https://alexdefrese.github.io/Defrese-Portfolio-update/
+
 
 ## Built With:
 - React
