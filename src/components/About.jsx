@@ -18,7 +18,9 @@ const About = () => {
             <p>It's nice to meet you.</p>
           </div>
           <div>
-            <p >****Placeholder about me text****</p>
+            <p >Who am I? I'm a Full Stack Web Developer with a background in Film and Media Studies able to provide a unique perspective to projects. Effective problem-solver, demonstrating creativity and resourcefulness to develop user-friendly applications. Known amongst staff to be calm and level-headed with a high attention to detail no matter the scope of the project.</p>
+            <br></br>
+            <p className='text-xl'>Have a look around and enjoy yourself!</p>
           </div>
         </div>
       </div>
