@@ -20,7 +20,18 @@ const Home = () => {
                 <HiArrowNarrowRight className='ml-3 '/>
                 </span>
                 </button>
-                
+            </div>
+            <div>
+                <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#7C131A] hover:border-[#7C131A]'>
+                <a
+                 href="https://docs.google.com/document/d/1bgEfdI46kOIepl4Mt4pI9NU__nPZ7XuQslRh1tRCpM8/edit?usp=sharing"
+                 target="_blank">
+                  Resume
+                </a>
+                <span>
+                <HiArrowNarrowRight className='ml-3 '/>
+                </span>
+                </button>
             </div>
         </div>
         </div>
