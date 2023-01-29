@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/Defrese-Portfolio-update/static/css/main.061082df.css",
-    "main.js": "/Defrese-Portfolio-update/static/js/main.916bcfbd.js",
+    "main.js": "/Defrese-Portfolio-update/static/js/main.fcfc0948.js",
     "static/media/foodytrack.png": "/Defrese-Portfolio-update/static/media/foodytrack.4717b10470616b386f48.png",
     "static/media/PlaceBook.png": "/Defrese-Portfolio-update/static/media/PlaceBook.e5610ae7993eba2a0386.png",
-    "static/media/Run-Buddy.png": "/Defrese-Portfolio-update/static/media/Run-Buddy.492d50822ddc662ca7ce.png",
-    "static/media/coming-soon2.png": "/Defrese-Portfolio-update/static/media/coming-soon2.ce39f50b299b1efcbe80.png",
+    "static/media/WeatherDashboard.png": "/Defrese-Portfolio-update/static/media/WeatherDashboard.7cd866bbc4da4521a94b.png",
     "static/media/react.png": "/Defrese-Portfolio-update/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/Defrese-Portfolio-update/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/Defrese-Portfolio-update/static/media/mongo.2a1528ddc31d4ce8518d.png",
@@ -15,10 +14,10 @@
     "static/media/javascript.png": "/Defrese-Portfolio-update/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Defrese-Portfolio-update/index.html",
     "main.061082df.css.map": "/Defrese-Portfolio-update/static/css/main.061082df.css.map",
-    "main.916bcfbd.js.map": "/Defrese-Portfolio-update/static/js/main.916bcfbd.js.map"
+    "main.fcfc0948.js.map": "/Defrese-Portfolio-update/static/js/main.fcfc0948.js.map"
   },
   "entrypoints": [
     "static/css/main.061082df.css",
-    "static/js/main.916bcfbd.js"
+    "static/js/main.fcfc0948.js"
   ]
 }
