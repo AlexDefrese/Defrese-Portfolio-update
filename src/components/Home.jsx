@@ -24,7 +24,7 @@ const Home = () => {
             <div>
                 <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#7C131A] hover:border-[#7C131A]'>
                 <a
-                 href="https://docs.google.com/document/d/1bgEfdI46kOIepl4Mt4pI9NU__nPZ7XuQslRh1tRCpM8/edit?usp=sharing"
+                 href="https://docs.google.com/document/d/10Oz67ht8RRJ-MvmfVkUSwRstPspgEReYGXYEvyUY6Ms/edit?usp=sharing"
                  target="_blank">
                   Resume
                 </a>

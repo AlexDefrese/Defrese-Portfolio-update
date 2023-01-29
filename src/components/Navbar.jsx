@@ -98,7 +98,7 @@ const Navbar = () => {
             </li> */}
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
                 <a className='flex justify-between items-center w-full text-gray-300'
-                 href="https://docs.google.com/document/d/1bgEfdI46kOIepl4Mt4pI9NU__nPZ7XuQslRh1tRCpM8/edit?usp=sharing"
+                 href="https://docs.google.com/document/d/10Oz67ht8RRJ-MvmfVkUSwRstPspgEReYGXYEvyUY6Ms/edit?usp=sharing"
                  target="_blank">
                     Resume <BsFillPersonLinesFill size={30}/>
                 </a>

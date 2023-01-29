@@ -1,8 +1,7 @@
 import React from 'react'
 import FoodyTrack from '../assets/foodytrack.png';
-import RunBuddy from '../assets/Run-Buddy.png';
-import ComingSoon from '..//assets/coming-soon2.png';
-import PlaceBook from '../assets/PlaceBook.png'
+import PlaceBook from '../assets/PlaceBook.png';
+import WeatherDashboard from '../assets/WeatherDashboard.png'
 
 const Work = () => {
   return (
@@ -22,6 +21,7 @@ const Work = () => {
                 <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
                     FoodyTrack: A Recipe Search App
+                    <br /> Built With: JavaScript, CSS, Materialize, Edamam API
                     </span>
                     <div className='pt-8 text-center'>
                         <a href="https://annoyingdroid.github.io/FoodyTrack" target="_blank">
@@ -33,19 +33,21 @@ const Work = () => {
                     </div>
                 </div>
             </div>
-            <div style={{backgroundImage: `url(${RunBuddy})`}} 
+            <div style={{backgroundImage: `url(${WeatherDashboard})`}} 
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
                 {/* hover effect */}
                 <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                    RunBuddy: An App for Runners
+                    Weather Dashboard: An App to Check the Weather
+                    <br />
+                    <br /> Built With: JavaScript OpenWeatherMap API
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://lernantino.github.io/run-buddy/" target="_blank">
+                        <a href="https://alexdefrese.github.io/Defrese-Weather/" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="https://github.com/AlexDefrese/run-buddy" target="_blank">
+                        <a href="https://github.com/AlexDefrese/Defrese-Weather" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
@@ -57,31 +59,15 @@ const Work = () => {
                 {/* hover effect */}
                 <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                    PlaceBook: Social Media for Travelers
+                    PlaceBook: Social Media for Travelers 
+                    <br /> 
+                    <br />Built With: MERN 
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://taholton748.github.io/PlaceBook/" target="_blank">
+                        <a href="https://hidden-lake-64019.herokuapp.com/" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="https://github.com/taholton748/PlaceBook" target="_blank">
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div style={{backgroundImage: `url(${ComingSoon})`}} 
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                
-                {/* hover effect */}
-                <div className='opacity-0 group-hover:opacity-100'>
-                    <span className='text-2xl font-bold text-white tracking-wider'>
-                    Stay Tuned!
-                    </span>
-                    <div className='pt-8 text-center'>
-                        <a href="https://github.com/AlexDefrese" target="_blank">
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                        </a>
-                        <a href="https://github.com/AlexDefrese" target="_blank">
+                        <a href="https://github.com/AlexDefrese/PlaceBook" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
