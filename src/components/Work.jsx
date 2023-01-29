@@ -24,7 +24,7 @@ const Work = () => {
                     <br /> Built With: JavaScript, CSS, Materialize, Edamam API
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://annoyingdroid.github.io/FoodyTrack" target="_blank">
+                        <a href="https://alexdefrese.github.io/FoodyTrack/" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
                         <a href="https://github.com/AlexDefrese/FoodyTrack" target="_blank">
