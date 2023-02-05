@@ -1,7 +1,8 @@
 import React from 'react'
 import FoodyTrack from '../assets/foodytrack.png';
-import PlaceBook from '../assets/PlaceBook.png';
+// import PlaceBook from '../assets/PlaceBook.png';
 import WeatherDashboard from '../assets/WeatherDashboard.png'
+import FullerStack from '../assets/FullerStackCapture.png'
 
 const Work = () => {
   return (
@@ -53,21 +54,21 @@ const Work = () => {
                     </div>
                 </div>
             </div>
-            <div style={{backgroundImage: `url(${PlaceBook})`}} 
+            <div style={{backgroundImage: `url(${FullerStack})`}} 
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
                 {/* hover effect */}
                 <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                    PlaceBook: Social Media for Travelers 
+                    The Fuller Stack : Social Media Site for Developers
                     <br /> 
-                    <br />Built With: MERN 
+                    <br />Built With: Handlebars, NodeJS, MySQL, ExpressJS
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://hidden-lake-64019.herokuapp.com/" target="_blank">
+                        <a href="https://protected-harbor-61276.herokuapp.com/" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="https://github.com/AlexDefrese/PlaceBook" target="_blank">
+                        <a href="https://github.com/AlexDefrese/TheFullerStack" target="_blank">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
